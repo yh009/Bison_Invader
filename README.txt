@@ -1,0 +1,6 @@
+	Bison Invaders is a simple 2D game created by The Golden Oreo, a team comprised of Yuxuan Huang, Jonathan Li, and Joseph Elvin. Yuxuan was the product owner, Jonathan was the SCRUM Master, and Joseph was a developer. 
+
+      The game is a bird’s eye view of a take on the classic Space invaders. The protagonist is a Bucky the Bison like player who spawns on the left side of the game page. He shoots enemies that come in waves from the right side of the page. There are two ways that the game can be lost. If an enemy and the player meet, the game is lost. Every time an enemy reaches the left side of the page, the castle takes damage, reflected in the health bar. The game is lost if the health reaches 0. 
+
+
+     The src/Main/Main.java contains the main method for the game. To play the game, user can either directly run /dist/csci205Final.jar, or open the project in netbeans and run the Main.java file. The player can choose either story mode, which has a definite end, or endless mode, which is essentially unbeatable. In the menu, use the arrow keys(up and down) and enter to navigate. The arrow keys move the player and the space bar is pressed to shoot. The escape key can be pressed during the game to pause the game. 

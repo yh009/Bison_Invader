@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/mac/Desktop/GitHub/BisonInvader/BisonInvader/src/GUI/ctrl/GameState/PlayState.java</file>
+            <file>file:/Users/mac/Desktop/GitHub/BisonInvader/BisonInvader/src/model/entities/MainChar.java</file>
+            <file>file:/Users/mac/Desktop/GitHub/BisonInvader/BisonInvader/src/GUI/ctrl/GameState/GameState.java</file>
+            <file>file:/Users/mac/Desktop/GitHub/BisonInvader/BisonInvader/src/model/weapons/Bow.java</file>
+            <file>file:/Users/mac/Desktop/GitHub/BisonInvader/BisonInvader/src/GUI/model/Wave.java</file>
+            <file>file:/Users/mac/Desktop/GitHub/BisonInvader/BisonInvader/src/model/entities/Fiend.java</file>
+            <file>file:/Users/mac/Desktop/GitHub/BisonInvader/BisonInvader/src/model/items/NinjaStarUnit.java</file>
+            <file>file:/Users/mac/Desktop/GitHub/BisonInvader/BisonInvader/src/model/weapons/NinjaStar.java</file>
+            <file>file:/Users/mac/Desktop/GitHub/BisonInvader/BisonInvader/src/GUI/view/Game.java</file>
+            <file>file:/Users/mac/Desktop/GitHub/BisonInvader/BisonInvader/src/model/buildings/House.java</file>
+            <file>file:/Users/mac/Desktop/GitHub/BisonInvader/BisonInvader/test/GUI/model/KeysTest.java</file>
+            <file>file:/Users/mac/Desktop/GitHub/BisonInvader/BisonInvader/src/GUI/ctrl/GameState/EndState.java</file>
+            <file>file:/Users/mac/Desktop/GitHub/BisonInvader/BisonInvader/src/model/entities/Enemy.java</file>
+            <file>file:/Users/mac/Desktop/GitHub/BisonInvader/BisonInvader/src/GUI/utility/Keys.java</file>
+            <file>file:/Users/mac/Desktop/GitHub/BisonInvader/BisonInvader/src/model/items/CarpentrySet.java</file>
+            <file>file:/Users/mac/Desktop/GitHub/BisonInvader/BisonInvader/src/model/weapons/Slingshot.java</file>
+            <file>file:/Users/mac/Desktop/GitHub/BisonInvader/BisonInvader/src/model/weapons/Weapon.java</file>
+            <file>file:/Users/mac/Desktop/GitHub/BisonInvader/BisonInvader/src/model/entities/Troll.java</file>
+            <file>file:/Users/mac/Desktop/GitHub/BisonInvader/BisonInvader/src/model/weapons/Tomato.java</file>
+            <file>file:/Users/mac/Desktop/GitHub/BisonInvader/BisonInvader/src/model/buildings/Fortress.java</file>
+            <file>file:/Users/mac/Desktop/GitHub/BisonInvader/BisonInvader/src/model/entities/Orc.java</file>
+            <file>file:/Users/mac/Desktop/GitHub/BisonInvader/BisonInvader/src/model/items/Arrow.java</file>
+            <file>file:/Users/mac/Desktop/GitHub/BisonInvader/BisonInvader/src/model/items/TomatoUnit.java</file>
+            <file>file:/Users/mac/Desktop/GitHub/BisonInvader/BisonInvader/src/GUI/model/WeaponInAir.java</file>
+            <file>file:/Users/mac/Desktop/GitHub/BisonInvader/BisonInvader/test/GUI/model/WaveTest.java</file>
+            <file>file:/Users/mac/Desktop/GitHub/BisonInvader/BisonInvader/src/model/weapons/Bottle.java</file>
+            <file>file:/Users/mac/Desktop/GitHub/BisonInvader/BisonInvader/src/model/buildings/Building.java</file>
+            <file>file:/Users/mac/Desktop/GitHub/BisonInvader/BisonInvader/src/model/buildings/Castle.java</file>
+            <file>file:/Users/mac/Desktop/GitHub/BisonInvader/BisonInvader/src/model/items/BottleUnit.java</file>
+            <file>file:/Users/mac/Desktop/GitHub/BisonInvader/BisonInvader/src/GUI/utility/ImgLoader.java</file>
+            <file>file:/Users/mac/Desktop/GitHub/BisonInvader/BisonInvader/src/model/items/HealthPotion.java</file>
+            <file>file:/Users/mac/Desktop/GitHub/BisonInvader/BisonInvader/src/GUI/ctrl/GameState/Continuous.java</file>
+            <file>file:/Users/mac/Desktop/GitHub/BisonInvader/BisonInvader/src/GUI/ctrl/GameState/GameStateManager.java</file>
+            <file>file:/Users/mac/Desktop/GitHub/BisonInvader/BisonInvader/src/GUI/model/WeaponOnGround.java</file>
+            <file>file:/Users/mac/Desktop/GitHub/BisonInvader/BisonInvader/test/GUI/ctrl/GameState/GameStateManagerTest.java</file>
+            <file>file:/Users/mac/Desktop/GitHub/BisonInvader/BisonInvader/src/model/items/Pellet.java</file>
+            <file>file:/Users/mac/Desktop/GitHub/BisonInvader/BisonInvader/src/GUI/ctrl/GameState/PauseState.java</file>
+            <file>file:/Users/mac/Desktop/GitHub/BisonInvader/BisonInvader/src/GUI/ctrl/GameState/MenuState.java</file>
+            <file>file:/Users/mac/Desktop/GitHub/BisonInvader/BisonInvader/src/model/entities/Entity.java</file>
+            <file>file:/Users/mac/Desktop/GitHub/BisonInvader/BisonInvader/src/model/items/Item.java</file>
+            <file>file:/Users/mac/Desktop/GitHub/BisonInvader/BisonInvader/src/Main/Main.java</file>
+        </group>
+    </open-files>
+</project-private>

@@ -1,0 +1,10 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}Software Engineering and Design, Spring 2017
+${licensePrefix}Name: Yuxuan Huang ${licensePrefix}
+${licensePrefix}Date: Apr 9, 2017 ${licensePrefix}
+${licensePrefix}Project: BisonInvader${licensePrefix}
+<#if licenseLast??>
+${licenseLast}
+</#if>
